@@ -9,3 +9,4 @@ Solutions in Julia to the [Advent of Code](https://adventofcode.com/) 2018 probl
 [Day 5](days/day5.ipynb)  
 [Day 6](days/day6.ipynb)  
 [Day 7](days/day7.ipynb)  
+[Day 8](days/day8.ipynb)  
